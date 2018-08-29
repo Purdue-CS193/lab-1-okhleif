@@ -4,24 +4,16 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### My Favorite Things About Purdue CS193
-
-- Small Class
-- Coding Experience
-- Collaborative
+### About Me
 
 ```markdown
 Syntax highlighted code block
 
-# Omar Khleif's first CS193 Lab
-## Header 2
-### Header 3
+My Favorite Things About Purdue CS193
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Small Class
+- Coding Experience
+- Collaborative
 
 **Bold** and _Italic_ and `Code` text
 
